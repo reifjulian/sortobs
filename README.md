@@ -1,4 +1,4 @@
-# SORTOBS: save returned results to your dataset
+# SORTOBS: sort observations into a specified order
 
 - Current version: `1.1 16sep2010`
 - Jump to: [`updates`](#recent-updates) [`install`](#install) [`description`](#description) [`author`](#author)
