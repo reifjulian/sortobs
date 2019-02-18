@@ -15,7 +15,7 @@
 Type `which sortobs` at the Stata prompt to determine which version you have installed. To install the most recent version of `sortobs`, copy/paste the following line of code:
 
 ```
-net install sortobs, from("https://raw.githubusercontent.com/reifjulian/svret/master") replace
+net install sortobs, from("https://raw.githubusercontent.com/reifjulian/sortobs/master") replace
 ```
 
 To install the version that was uploaded to SSC, copy/paste the following line of code:
